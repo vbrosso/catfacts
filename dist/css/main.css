@@ -1,0 +1,15 @@
+body #errorNumber {
+  display: none; }
+
+body #inputNumber {
+  text-align: center; }
+
+body .list-group-item {
+  cursor: pointer; }
+  body .list-group-item span {
+    float: left;
+    width: calc(100% - 20px); }
+  body .list-group-item i {
+    color: #007bff;
+    float: right;
+    width: 8px; }
